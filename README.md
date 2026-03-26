@@ -177,3 +177,4 @@ sudo systemctl status codedeploy-agent
 - This template is intentionally simple and good for a class project or MVP.
 - For production, add Nginx, HTTPS, separate staging/prod environments, and secrets from AWS Systems Manager Parameter Store or Secrets Manager.
 - If you do **not** want CodeDeploy, you can switch the deploy step to SSH into EC2 directly, but CodeDeploy is cleaner for AWS-based EC2 deployments.
+# trigger
