@@ -179,3 +179,4 @@ sudo systemctl status codedeploy-agent
 - If you do **not** want CodeDeploy, you can switch the deploy step to SSH into EC2 directly, but CodeDeploy is cleaner for AWS-based EC2 deployments.
 # trigger
 # test runner
+# retry
